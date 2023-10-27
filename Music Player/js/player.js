@@ -74,7 +74,7 @@ previous_button.addEventListener("click", () => {
         is_music_playing = true
     }
     else{
-        currentMusic = music_list.length
+        currentMusic = music_list.length - 1
         music.pause()
         music.src = music_list[currentMusic].link
         music_artist.innerHTML = music_list[currentMusic].artist 
