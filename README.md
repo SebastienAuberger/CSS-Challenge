@@ -9,10 +9,14 @@ I would be really greatfull if some people give me tips so don't hesitate
 ## Challenge List
 
 - **Minimal Blog Card:**
+
 Minimalist card to be used on blog or elsewhere ([demo](https://653bca1fb52eae780becf66b--harmonious-crostata-d4a577.netlify.app/))
+
 ![Result](https://i.ibb.co/PYG8NyN/blog-card.png)
 
-- **Simple Player Music:**
-A simple Player Music, not finished yet but working ([demo](https://dashing-fox-32c740.netlify.app/))
+- **Simple Music Player:**
+
+A simple Music, not finished yet but working ([demo](https://dashing-fox-32c740.netlify.app/))
+
 ![Result](https://dashing-fox-32c740.netlify.app/Assets/musicplayer.png)
 
