@@ -50,11 +50,31 @@ next_button.addEventListener("click", () => {
         music.play()
         is_music_playing = true
     }
+    else{
+        currentMusic = 0
+        music.pause()
+        music.src = music_list[currentMusic].link
+        music_artist.innerHTML = music_list[currentMusic].artist 
+        music_cover.src = music_list[currentMusic].cover
+        music_title.innerHTML = music_list[currentMusic].name
+        music.play()
+        is_music_playing = true
+    }
 })
 
 previous_button.addEventListener("click", () => {
     if(currentMusic - 1 >= 0){
         currentMusic--
+        music.pause()
+        music.src = music_list[currentMusic].link
+        music_artist.innerHTML = music_list[currentMusic].artist 
+        music_cover.src = music_list[currentMusic].cover
+        music_title.innerHTML = music_list[currentMusic].name
+        music.play()
+        is_music_playing = true
+    }
+    else{
+        currentMusic = music_list.length
         music.pause()
         music.src = music_list[currentMusic].link
         music_artist.innerHTML = music_list[currentMusic].artist 
