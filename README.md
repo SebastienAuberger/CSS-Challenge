@@ -9,5 +9,6 @@ I would be really greatfull if some people give me tips so don't hesitate
 ## Challenge List
 
 - **Minimal Blog Card:**
-Minimalist card to be used on blog or elsewhere
+Minimalist card to be used on blog or elsewhere ([demo](https://653bca1fb52eae780becf66b--harmonious-crostata-d4a577.netlify.app/))
 ![Result](https://i.ibb.co/PYG8NyN/blog-card.png)
+
