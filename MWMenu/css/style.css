@@ -1,7 +1,9 @@
 @font-face {
-	font-family: 'modernWarfare';
-	font-style: normal;
+	font-family: 'mw2';
 	src: url("../Assets/fonts/mw2.ttf") format('truetype');
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: 100;
   }
 
 *{
@@ -16,7 +18,7 @@ body{
     margin: 0;
     padding: 0;
     color: white;
-    font-family: "modernWarfare";
+    font-family: "mw2";
 }
 
 nav{
@@ -26,6 +28,7 @@ nav{
     width: 30vw;
     background-color: rgba(255, 255, 255, 0.09);
     color: white;
+    text-transform: uppercase;
 }
 
 nav ul{
