@@ -22,3 +22,6 @@ A simple Music Player, not finished yet but working ! ([demo](https://unique-bis
 
 ![Result](https://unique-biscochitos-0140ff.netlify.app/music%20player/Assets/musicplayer.png)
 
+- **Modern Warfare 2 Nav Menu:**
+
+A Navigation in MW2 Style ! (JS will be added for sound) ([demo](https://unique-biscochitos-0140ff.netlify.app/mwmenu/))
