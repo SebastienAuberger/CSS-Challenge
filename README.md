@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1e4a597-8b33-4494-8271-af5fcfc23e9b/deploy-status)](https://app.netlify.com/sites/unique-biscochitos-0140ff/deploys)
 # CSS Challenge
-All challenges demo can be found on this [Website](css.sebastien-abg.fr) it's an auto deployed Netlify website. Link will surely change soon but will be updated
+All challenges demo can be found on this [Website](http://css.sebastien-abg.fr) it's an auto deployed Netlify website. Link will surely change soon but will be updated
 
 ## What is it ?
 As described in the title, CSS Challenge is a small repository where I'll put my different challenges, I'm not a really good Web Designer and not mastering CSS so I want to improve my skill by making some challenges
