@@ -12,16 +12,16 @@ I would be really greatfull if some people give me tips so don't hesitate
 
 - **Minimal Blog Card:**
 
-Minimalist card to be used on blog or elsewhere ([demo](css.sebastien-abg.fr/card/))
+Minimalist card to be used on blog or elsewhere ([demo](http://css.sebastien-abg.fr/card/))
 
 ![Result](https://i.ibb.co/PYG8NyN/blog-card.png)
 
 - **Simple Music Player:**
 
-A simple Music Player, not finished yet but working ! ([demo](css.sebastien-abg.fr/music%20player/))
+A simple Music Player, not finished yet but working ! ([demo](http://css.sebastien-abg.fr/music%20player/))
 
 ![Result](https://unique-biscochitos-0140ff.netlify.app/music%20player/Assets/musicplayer.png)
 
 - **Modern Warfare 2 Nav Menu:**
 
-A Navigation in MW2 Style ! (JS will be added for sound) ([demo](css.sebastien-abg.fr/mwmenu/))
+A Navigation in MW2 Style ! (JS will be added for sound) ([demo](http://css.sebastien-abg.fr/mwmenu/))
